@@ -1,1 +1,2 @@
-[ApiControllers]/wwwroot/* linguist-vendored
+*.js linguist-detectable=false
+*.cs linguist-detectable=true
