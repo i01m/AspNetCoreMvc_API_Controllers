@@ -1,0 +1,10 @@
+C:\developmentVM\aspNetCoreMvc2\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.deps.json
+C:\developmentVM\aspNetCoreMvc2\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.runtimeconfig.json
+C:\developmentVM\aspNetCoreMvc2\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.runtimeconfig.dev.json
+C:\developmentVM\aspNetCoreMvc2\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.dll
+C:\developmentVM\aspNetCoreMvc2\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.pdb
+C:\developmentVM\aspNetCoreMvc2\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.csproj.CoreCompileInputs.cache
+C:\developmentVM\aspNetCoreMvc2\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.AssemblyInfoInputs.cache
+C:\developmentVM\aspNetCoreMvc2\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.AssemblyInfo.cs
+C:\developmentVM\aspNetCoreMvc2\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.dll
+C:\developmentVM\aspNetCoreMvc2\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.pdb
