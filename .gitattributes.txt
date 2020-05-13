@@ -1,1 +1,1 @@
-[ApiControllers]/wwwroot/* linguist-vendored
+ApiControllers/wwwroot/* linguist-vendored
